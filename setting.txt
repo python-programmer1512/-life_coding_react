@@ -1,0 +1,11 @@
+설치 순서
+1. node.js 를 설치
+2. cmd 에 npm -v 해서 버전 뜨는지 확인
+3. npm install -g create-react-app 해서 설치, 만약 에러 뜨면 인터넷에 업데이트 하는방법 해서 하고 다시하면 됨
+4. create-react-app -V
+5. cmd 에 cd 파일 이름 해서 경로 열고 create-react-app . 하면 됨
+react 를 설치할때 떠도 그냥 create-react-app -V 해서 잘나오면 된거임
+create-react-app . 할때 파일이 D 에 있으면 D를 맞추고 해야지 에러가 안남
+6. 만든 파일 들어가서 vsc 터미널에서 npm run start
+
+
